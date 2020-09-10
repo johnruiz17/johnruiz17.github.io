@@ -32,11 +32,11 @@ for (let i = 1; i <= 6; i++) {
   })
 }
 
-//opens the corresponding link when the user clicks the LinkedIn or Twitter icon
+//opens the corresponding link when the user clicks the LinkedIn or Github icon
 $('#linkedin-icon').on('click', function() {
   window.open("https://www.linkedin.com/in/john-ruiz-6b01bb1a7", "_blank");
 })
 
-$('#twitter-icon').on('click', function() {
-  window.open("https://twitter.com/JohnRui41685913", "_blank");
+$('#github-icon').on('click', function() {
+  window.open("https://github.com/johnruiz17", "_blank");
 })
