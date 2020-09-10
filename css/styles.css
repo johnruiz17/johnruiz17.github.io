@@ -114,7 +114,7 @@
     object-fit: cover;
   }
   #linkedin-icon, 
-  #twitter-icon {
+  #github-icon {
     cursor: pointer;
   } 
 }
